@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.runtime/
+runs/
+.downloads/
+logs/
+*.cache
+.DS_Store
+Thumbs.db
